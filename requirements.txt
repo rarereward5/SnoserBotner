@@ -3,3 +3,4 @@ aiohttp==3.9.5
 telethon==1.35.0
 pystyle==2.9
 python-dotenv==1.0.1
+requests==2.32.5
