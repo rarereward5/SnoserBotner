@@ -55,7 +55,7 @@ CURRENCY_PRICES = {
 }
 
 SESSION_DIR = 'Session'
-bot_token = '8415450243:AAHjqFuqbCoyEfmyM4dnCA41ofXlcTS2s34'   
+bot_token = '8365548858:AAEbN_q9BEB4xrmf9aPx11rlcAj0x8c9BQI'   
 admin_chat_ids = ['8299768278']
 CRYPTO_PAY_TOKEN = '485913:AAthES9C4Gwk64pGwNwjAHRHteAHD7HKCDm'
 
