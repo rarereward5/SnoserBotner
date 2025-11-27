@@ -1,7 +1,7 @@
-CHANNEL_ID = -1002768054672
+CHANNEL_ID = -1005067561822
 
 CHANNELS = {
-    -1002768054672: "https://t.me/+2AyzU2pm8y00NDc6"
+    -1003259505746: "https://t.me/+2AyzU2pm8y00NDc6"
 }
 
 private_channel_ids = {3117077473, 3259505746} 
@@ -55,7 +55,7 @@ CURRENCY_PRICES = {
 }
 
 SESSION_DIR = 'Session'
-bot_token = '8365548858:AAEbN_q9BEB4xrmf9aPx11rlcAj0x8c9BQI'   
+bot_token = '8415450243:AAHjqFuqbCoyEfmyM4dnCA41ofXlcTS2s34'   
 admin_chat_ids = ['8299768278']
 CRYPTO_PAY_TOKEN = '485913:AAthES9C4Gwk64pGwNwjAHRHteAHD7HKCDm'
 
@@ -836,7 +836,101 @@ senders = {
 'jensis@osnanet.de':'28061979',
 'leandra@osnanet.de':'kasimir',
 'schnati92@osnanet.de':'240292',
-
+'ozicaan@gmail.com': '2318398', 
+'bonnieb.roman@gmail.com': 'ilovechad2', 
+'selcukkeser@gmail.com': '22135270', 
+'sugarbee89@gmail.com': 'justbee', 
+'crtnyhy@gmail.com': 'chickens', 
+'babylon75@gmail.com': 'kiiots9', 
+'erikvail@gmail.com': 'jazmin16', 
+'jmtremlett@gmail.com': 'ebony1', 
+'Michaelbwhittaker@gmail.com': 'dizzy', 
+'rootla@gmail.com': 'tehani', 
+'christofir@gmail.com': 'lyssna', 
+'koc.asli@gmail.com': '20011429', 
+'berni.torres@gmail.com': 'finisterra', 
+'istanblue1907@gmail.com': 'bora1907', 
+'ivapop@gmail.com': 'plua2801', 
+'loveriffic@gmail.com': 'fortrclass', 
+'oznukhet@gmail.com': '10011980', 
+'comesailaway08@gmail.com': 'liketurkey', 
+'tony.turktaz@gmail.com': 'action7', 
+'cronotrigger21lit@gmail.com': 'reedemer', 
+'efrainjaimes@gmail.com': '13973035', 
+'luqmaniqbal@gmail.com': 'qwerqwer777', 
+'helena.roz1@gmail.com': '123456', 
+'chatzoudis@gmail.com': 'ormickoc', 
+'oposdipote@gmail.com': '199346', 
+'gilfhmd@gmail.com': '65119155', 
+'armanorama@gmail.com': 't8e2z9', 
+'renata.pan@gmail.com': 'aro22AMA32nep', 
+'ajda.berryman@gmail.com': 'chisene', 
+'sariyar.k@gmail.com': 'sifre', 
+'bohemia.images@gmail.com': 'sodoff', 
+'baaxten@gmail.com': '3paulina2', 
+'reportingservicesgeek@gmail.com': 'iltyd2dy', 
+'doppleganger3@gmail.com': 'shayla', 
+'kostarides@gmail.com': 'finn1961', 
+'lynnent@gmail.com': 'uzzell', 
+'clintwarn@gmail.com': 'mccash', 
+'debelaberta@gmail.com': 'svastaisvega', 
+'rarshia@gmail.com': 'rahamath', 
+'cdeubelbeiss@mail.ru': 'wasser333', 
+'husdog@mail.ru': '123456', 
+'thawk@mail.ru': 'yastreb', 
+'Julia1990@mail.ru': 'ZXCVBNM', 
+'kader@mail.ru': 'michael', 
+'karamelek@mail.ru': '19831983', 
+'yulia-anya@mail.ru': 'iloveyou', 
+'mel_melek@mail.ru': '123456', 
+'dizzy_dizzy@mail.ru': 'looking', 
+'sofiamese@mail.ru': '030879', 
+'misra@mail.ru': '20031982', 
+'bmfl_u@mail.ru': 'febbraio', 
+'venera1106@mail.ru': 'mykittyedward', 
+'gazetattel@mail.ru': '575009', 
+'alekseenko_sveta@mail.ru': 'kattashukran', 
+'tuncay-10@mail.ru': 'megaman', 
+'glow04@mail.ru': '210971', 
+'alena.krr@mail.ru': '723641', 
+'ranosh83@mail.ru': '99983782227', 
+'angelika_markiza@mail.ru': '123456', 
+'catherineur90@mail.ru': 'uroandeka', 
+'guzelkiz@mail.ru': '4943404', 
+'the_dancegirl@mail.ru': 'fuck_off', 
+'aitelnaz76@mail.ru': '4491997', 
+'tusher@mail.ru': 'a93j18z20', 
+    'lyonya-zakharov-1973@mail.ru': 'xxATU6vycwE9UD7BNwJg', 
+    'Johnsoncarol600202278@mail.ru': 'wHPePgG730', 
+    'adam.fraser.89@list.ru': 'RHGA6cARkNaiXPmy5j0F', 
+    'lyonya.antonov.83@mail.ru': 'aBR9Lu8XdL77xjmKJ7X3', 
+    'nina.kudryavceva.1962@mail.ru': 'JTUcdc9VrCVTfURzz6Hs', 
+    'ela.grigoreva.96@mail.ru': 'd5ACUvwydjSC7waxRvdT', 
+    's-kopylova79949504@mail.ru': 'Lzqjkt*SDV#z:mRhMpdqKSmLExnrp0913', 
+    'patricia.p.1961872@mail.ru': 'hiNCMTpdI2', 
+    'ella.gimson.97@list.ru': 'CyuRCW2TbG', 
+    'penelope.m.1990270@mail.ru': 'X6LC6vrC5q9Sl96Trckt', 
+    'g-korotkova-3838737@mail.ru': '2q5p$eD*)guc:RhEvMjQZW1qqup3eC9ae', 
+    'milana_bobrova_1963@mail.ru': 'RKgK0XVcfmVkiKwLshXN', 
+    'taras.anisimov.10.1.2000@mail.ru': 'YfEhXzd2zm', 
+    'marina.korneeva.4.10.1977@mail.ru': '485Oy5kH1', 
+    'aridavajoigult489@mail.ru': '82Af6ayb7B0', 
+    'faina.vinogradova.2018@mail.ru': 'cTCMkwejDfwbngmFJ77Z', 
+    'elena_ramazanova_13921@mail.ru': 'JID2VA8USYkGanO:M6BDe8YjHverD2rxkksW', 
+    'yanagolubeva1978@mail.ru': 'ZqaLR0pCsffvfyjLSnPN', 
+    'carly.s.1977586@mail.ru': '4ndx8iN0Hg', 
+    'vera_vera_danilova_1990_danilov@mail.ru': 'yJhSwMEEb1JxYGcetPsg', 
+    'tema_nikolaev_1961@mail.ru': 'f7izD05E1NVAnVREiT5T', 
+    'larry.b.84548@mail.ru': 'ZWqlqE2a3i', 
+    'agrippina.b19774412@mail.ru': '3O%YWg6LK@Dv:dcTt0NdjV54X0H2vckR7', 
+    'd.faber.67203@list.ru': 'Ni0HDf41iyhnojZ8TPG2', 
+    'ligiya_b50604301@mail.ru': 'XOEZQv*uIBRA:gzaVi07HyAxcbySGiwza', 
+    'osteen.w.1994181@list.ru': 'fzf5RywR8X', 
+    'sean.fisher.75@mail.ru': 'BKFw0ob3jcblCdxpSPgf', 
+    'katie.b.74793@mail.ru': 'W7BzpqT8Ph', 
+    'veronica.r.1997101@mail.ru': 'N3GC1cg5Zq', 
+    'roma_stepanov_28125@mail.ru': 'EBAnd1VRQQ:VtDFjHyuHpXw1BLQaUsh',
+'jack.donovan.62@mail.ru': 'MRs1LFaAq0gYW6ev7i4M',
 }
 
 receivers = [
