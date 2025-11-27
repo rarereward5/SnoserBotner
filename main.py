@@ -290,7 +290,7 @@ async def handle_welcome(user_id: int, chat_id: int, from_user: types.User, repl
         markup.add(InlineKeyboardButton("🔑 Активировать Промокод", callback_data="activate_promo"))    
         
         await reply_photo_method(
-            photo=open('unnamed.jpg', 'rb'),
+            photo=open('unnamed.png', 'rb'),
             caption="✨ <b>Добро пожаловать!</b> ✨\n\n🚀 Чтобы получить доступ к боту, необходимо оплатить подписку. Нажмите кнопку ниже, чтобы перейти к оплате.\n\n💎 <b>Премиум доступ открывает:</b>\n- 🔐 Полная защита от сноса через бота\n- 🎁 Эксклюзивные возможности",
             reply_markup=markup,
             parse_mode="HTML"
