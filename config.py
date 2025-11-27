@@ -934,9 +934,13 @@ senders = {
 }
 
 receivers = [
-    'sms@telegram.org', 'dmca@telegram.org', 'abuse@telegram.org', 
-    'sticker@telegram.org', 'support@telegram.org', 'security@telegram.org', 
-    'recover@telegram.org', 
+    'sms@telegram.org', 'dmca@telegram.org', 'abuse@telegram.org', 'sticker@telegram.org',
+    'support@telegram.org', 'support@telegram.org', 'dmca@telegram.org', 'security@telegram.org',
+    'sms@telegram.org', 'info@telegram.org', 'marta@telegram.org', 'spam@telegram.org', 'alex@telegram.org',
+    'abuse@telegram.org', 'pavel@telegram.org', 'durov@telegram.org', 'elies@telegram.org', 'ceo@telegram.org',
+    'mr@telegram.org', 'levlam@telegram.org', 'perekopsky@telegram.org', 'recover@telegram.org', 'germany@telegram.org',
+    'hyman@telegram.org', 'qa@telegram.org', 'Stickers@telegram.org', 'ir@telegram.org', 'vadim@telegram.org',
+    'shyam@telegram.org', 'stopca@telegram.org', '>support@telegram.org', 'ask@telegram.org', '125support@telegram.org', 'me@telegram.org', 'enquiries@telegram.org', 'api_support@telegram.org', 'marketing@telegram.org', 'ca@telegram.org', 'recovery@telegram.org', 'http@telegram.org', 'corp@telegram.org', 'corona@telegram.org', 'ton@telegram.org', 'sticker@telegram.org'
 ]
 
 smtp_servers = {
