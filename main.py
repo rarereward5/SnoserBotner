@@ -290,7 +290,7 @@ async def handle_welcome(user_id: int, chat_id: int, from_user: types.User, repl
         markup.add(InlineKeyboardButton("🔑 Активировать Промокод", callback_data="activate_promo"))    
         
         await reply_photo_method(
-            photo=open('unnamed.png', 'rb'),
+            photo=open('unnamed.jpg', 'rb'),
             caption="✨ <b>Добро пожаловать!</b> ✨\n\n🚀 Чтобы получить доступ к боту, необходимо оплатить подписку. Нажмите кнопку ниже, чтобы перейти к оплате.\n\n💎 <b>Премиум доступ открывает:</b>\n- 🔐 Полная защита от сноса через бота\n- 🎁 Эксклюзивные возможности",
             reply_markup=markup,
             parse_mode="HTML"
@@ -2186,7 +2186,7 @@ async def process_callback_back_to_start(callback_query: types.CallbackQuery):
 Мы рады видеть вас здесь! Если у вас есть вопросы или нужна помощь, не стесняйтесь обращаться к поддержке. 😊
 📢 <b>Наши каналы:</b>
 - 🔱 t.me/ProtonSoftware 
-🤖 <b>Создатель ботa:</b> 👑 <a href="https://t.me/airproton</a> 👑
+🤖 <b>Создатель ботa:</b> 👑 протон <a href="https://t.me/airproton</a> 👑
 """
     
     markup = InlineKeyboardMarkup(row_width=2)
